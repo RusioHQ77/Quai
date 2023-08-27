@@ -1,1 +1,40 @@
+#Unique Coinbase addresses
+LOCATION_COINBASE=0xEA56265A4eE4caaaAc4a3d78e420f0cE1bDC2514
+
+#Ports (TCP/UCP, HTTP, WS)
+PRIME_PORT_TCP=30303
+PRIME_PORT_HTTP=8546
+PRIME_PORT_WS=8547
+# ... (Pozostałe porty)
+
+# Dom websocket urls
+# ... (URL-y websocketów)
+
+# Sub websocket urls
+# ... (URL-y subskrypcji)
+
+#Boolean Variable Definition
+# ... (Pozostałe zmienne)
+
+#Input Variable Definition
+# ... (Pozostałe zmienne)
+
+#Mining Variables
+QUAI_MINING=true
+
+#Bootnode Specific Variables
+# ... (Pozostałe zmienne)
+
+# Verbosity variable
+VERBOSITY=4
+
+# Syncmode variable
+SYNCMODE=full
+
+# Stats information
+QUAI_STATS=false
+# ... (Pozostałe zmienne)
+
+# Output format variables
+# ... (Pozostałe zmienne)
 
