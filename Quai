@@ -1,29 +1,29 @@
-#Unique Coinbase addresses
+# Unique Coinbase addresses
 LOCATION_COINBASE=0xEA56265A4eE4caaaAc4a3d78e420f0cE1bDC2514
 
-#Ports (TCP/UCP, HTTP, WS)
+# Ports (TCP/UCP, HTTP, WS)
 PRIME_PORT_TCP=30303
 PRIME_PORT_HTTP=8546
 PRIME_PORT_WS=8547
-# ... (Pozostałe porty)
+# ... (Other ports)
 
 # Dom websocket urls
-# ... (URL-y websocketów)
+# ... (WebSocket URLs)
 
 # Sub websocket urls
-# ... (URL-y subskrypcji)
+# ... (Subscription URLs)
 
-#Boolean Variable Definition
-# ... (Pozostałe zmienne)
+# Boolean Variable Definition
+# ... (Other variables)
 
-#Input Variable Definition
-# ... (Pozostałe zmienne)
+# Input Variable Definition
+# ... (Other variables)
 
-#Mining Variables
+# Mining Variables
 QUAI_MINING=true
 
-#Bootnode Specific Variables
-# ... (Pozostałe zmienne)
+# Bootnode Specific Variables
+# ... (Other variables)
 
 # Verbosity variable
 VERBOSITY=4
@@ -33,8 +33,7 @@ SYNCMODE=full
 
 # Stats information
 QUAI_STATS=false
-# ... (Pozostałe zmienne)
+# ... (Other variables)
 
 # Output format variables
-# ... (Pozostałe zmienne)
-
+# ... (Other variables)
